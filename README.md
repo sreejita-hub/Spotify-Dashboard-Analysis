@@ -1,4 +1,6 @@
 # Spotify-Dashboard-Analysis
+<img width="1920" height="1081" alt="image" src="https://github.com/user-attachments/assets/b03ac1d7-93d2-4f0e-93e7-b7ea65e54561" />
+
 Spotify data analysis dashboard using Google Sheets
 # Spotify User Analytics Dashboard
 
