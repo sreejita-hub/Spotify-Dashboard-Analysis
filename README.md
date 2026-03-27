@@ -7,8 +7,8 @@ Spotify data analysis dashboard using Google Sheets
 This dataset contains user activity and listening behavior data from Spotify. It is designed to analyze user engagement, subscription patterns, and music preferences. The dashboard helps in understanding trends in user activity, listening hours, and genre popularity.
 
 ---
-![Dashboard](dashboard.png)
-<img width="721" height="463" alt="Screenshot 2026-03-27 101238" src="https://github.com/user-attachments/assets/d1cd257e-6202-4ede-b01c-38f465d9686c" />
+![Dashboard](sprify dashboard.png)
+<img width="725" height="476" alt="spotify dashboard" src="https://github.com/user-attachments/assets/30480c63-740b-4c8a-bc5a-27f039e6d07c" />
 
 ---
 
